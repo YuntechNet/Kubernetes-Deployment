@@ -1,3 +1,4 @@
+# external-dns.yaml
 apiVersion: v1
 kind: ServiceAccount
 metadata:
