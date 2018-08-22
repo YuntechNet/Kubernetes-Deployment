@@ -1,4 +1,4 @@
-# coredns-service-udp.yaml
+# coredns-configmap.yaml
 apiVersion: v1
 kind: ConfigMap
 metadata:
