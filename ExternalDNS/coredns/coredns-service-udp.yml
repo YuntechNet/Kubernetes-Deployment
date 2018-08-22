@@ -8,7 +8,7 @@ metadata:
 spec:
   type: LoadBalancer
   externalIPs:
-  - 172.22.132.10
+  - {externalIP}
   ports:
   - name: dns
     port: 53
